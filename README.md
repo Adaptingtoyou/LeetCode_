@@ -65,6 +65,7 @@
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3536-maximum-product-of-two-digits](https://github.com/NitinRawat813/LeetCode_/tree/master/3536-maximum-product-of-two-digits) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitinRawat813/LeetCode_/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
 |  |
@@ -105,6 +106,7 @@
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/NitinRawat813/LeetCode_/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
