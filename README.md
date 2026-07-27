@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/NitinRawat813/LeetCode_/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/NitinRawat813/LeetCode_/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -44,6 +45,7 @@
 | [0041-first-missing-positive](https://github.com/NitinRawat813/LeetCode_/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NitinRawat813/LeetCode_/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
@@ -75,6 +77,7 @@
 | [0050-powx-n](https://github.com/NitinRawat813/LeetCode_/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/NitinRawat813/LeetCode_/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NitinRawat813/LeetCode_/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
@@ -96,6 +99,7 @@
 | [0078-subsets](https://github.com/NitinRawat813/LeetCode_/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/NitinRawat813/LeetCode_/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -128,6 +132,7 @@
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/NitinRawat813/LeetCode_/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/NitinRawat813/LeetCode_/tree/master/3536-maximum-product-of-two-digits) |
@@ -145,6 +150,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NitinRawat813/LeetCode_/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinRawat813/LeetCode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
