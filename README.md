@@ -77,6 +77,7 @@
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NitinRawat813/LeetCode_/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2427-number-of-common-factors](https://github.com/NitinRawat813/LeetCode_/tree/master/2427-number-of-common-factors) |
 | [3536-maximum-product-of-two-digits](https://github.com/NitinRawat813/LeetCode_/tree/master/3536-maximum-product-of-two-digits) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitinRawat813/LeetCode_/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NitinRawat813/LeetCode_/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2427-number-of-common-factors](https://github.com/NitinRawat813/LeetCode_/tree/master/2427-number-of-common-factors) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NitinRawat813/LeetCode_/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/NitinRawat813/LeetCode_/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
