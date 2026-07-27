@@ -19,6 +19,7 @@
 | [0045-jump-game-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/NitinRawat813/LeetCode_/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/NitinRawat813/LeetCode_/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinRawat813/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0136-single-number) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NitinRawat813/LeetCode_/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/NitinRawat813/LeetCode_/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/NitinRawat813/LeetCode_/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/NitinRawat813/LeetCode_/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |
