@@ -37,6 +37,7 @@
 | [1920-build-array-from-permutation](https://github.com/NitinRawat813/LeetCode_/tree/master/1920-build-array-from-permutation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/NitinRawat813/LeetCode_/tree/master/3925-concatenate-array-with-reverse) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Hash Table
 |  |
@@ -193,6 +194,7 @@
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/NitinRawat813/LeetCode_/tree/master/1920-build-array-from-permutation) |
+| [3925-concatenate-array-with-reverse](https://github.com/NitinRawat813/LeetCode_/tree/master/3925-concatenate-array-with-reverse) |
 ## Recursion
 |  |
 | ------- |
