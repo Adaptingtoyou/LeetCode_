@@ -33,6 +33,7 @@
 | [0473-matchsticks-to-square](https://github.com/NitinRawat813/LeetCode_/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
+| [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/NitinRawat813/LeetCode_/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -94,6 +95,7 @@
 | [0342-power-of-four](https://github.com/NitinRawat813/LeetCode_/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NitinRawat813/LeetCode_/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/NitinRawat813/LeetCode_/tree/master/2427-number-of-common-factors) |
@@ -164,6 +166,7 @@
 | [0473-matchsticks-to-square](https://github.com/NitinRawat813/LeetCode_/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
 ## Bitmask
 |  |
 | ------- |
