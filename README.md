@@ -63,6 +63,7 @@
 | [0014-longest-common-prefix](https://github.com/NitinRawat813/LeetCode_/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NitinRawat813/LeetCode_/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NitinRawat813/LeetCode_/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/NitinRawat813/LeetCode_/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/NitinRawat813/LeetCode_/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NitinRawat813/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
@@ -88,6 +89,7 @@
 | [0029-divide-two-integers](https://github.com/NitinRawat813/LeetCode_/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/NitinRawat813/LeetCode_/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/NitinRawat813/LeetCode_/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/NitinRawat813/LeetCode_/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NitinRawat813/LeetCode_/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/NitinRawat813/LeetCode_/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/NitinRawat813/LeetCode_/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
@@ -217,6 +220,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NitinRawat813/LeetCode_/tree/master/0067-add-binary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/NitinRawat813/LeetCode_/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1929-concatenation-of-array) |
