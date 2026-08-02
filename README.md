@@ -70,6 +70,7 @@
 | [0224-basic-calculator](https://github.com/NitinRawat813/LeetCode_/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/NitinRawat813/LeetCode_/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/NitinRawat813/LeetCode_/tree/master/0415-add-strings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/NitinRawat813/LeetCode_/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -96,6 +97,7 @@
 | [0268-missing-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/NitinRawat813/LeetCode_/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NitinRawat813/LeetCode_/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/NitinRawat813/LeetCode_/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NitinRawat813/LeetCode_/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/NitinRawat813/LeetCode_/tree/master/0415-add-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/NitinRawat813/LeetCode_/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1929-concatenation-of-array) |
