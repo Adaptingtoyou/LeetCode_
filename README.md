@@ -104,6 +104,7 @@
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1492-the-kth-factor-of-n](https://github.com/NitinRawat813/LeetCode_/tree/master/1492-the-kth-factor-of-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NitinRawat813/LeetCode_/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/NitinRawat813/LeetCode_/tree/master/2427-number-of-common-factors) |
 | [3536-maximum-product-of-two-digits](https://github.com/NitinRawat813/LeetCode_/tree/master/3536-maximum-product-of-two-digits) |
@@ -274,6 +275,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/NitinRawat813/LeetCode_/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/NitinRawat813/LeetCode_/tree/master/2427-number-of-common-factors) |
 ## Counting Sort
 |  |
@@ -288,4 +290,8 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/NitinRawat813/LeetCode_/tree/master/0473-matchsticks-to-square) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/NitinRawat813/LeetCode_/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
