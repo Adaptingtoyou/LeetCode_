@@ -43,6 +43,7 @@
 | [1929-concatenation-of-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NitinRawat813/LeetCode_/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3693-climbing-stairs-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/3693-climbing-stairs-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/NitinRawat813/LeetCode_/tree/master/3925-concatenate-array-with-reverse) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Hash Table
@@ -177,6 +178,7 @@
 | [0486-predict-the-winner](https://github.com/NitinRawat813/LeetCode_/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/NitinRawat813/LeetCode_/tree/master/0877-stone-game) |
+| [3693-climbing-stairs-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
